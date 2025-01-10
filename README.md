@@ -1,4 +1,5 @@
 ### Hi there 👋
+LinkedIn: www.linkedin.com/in/hubert-jastrzebski
 
 I'm a student at Jagiellonian University, studying Theoretical Computer Science
 - 🖥️ Passionate about machine learning and AI research
@@ -15,7 +16,7 @@ GIF edited in GIMP (original from AnalyticsVidhya via Medium: https://medium.com
 # My projects:
 
 ## [Continual Learning Research](https://github.com/Hubizon/continual-learning-knn)
-I'm collaborating with my tutor to develop a method that surpasses FeCAM in continual learning. We've already achieved small improvements and are refining the approach further. This work will culminate in a detailed analysis and research paper.
+I'm working with my tutor to develop a method that surpasses FeCAM in continual learning. We've already achieved small improvements and are refining the approach further. This work will culminate in a detailed analysis and research paper.
 
 ## [Generating Images on a Website](https://github.com/Hubizon/generative-ai)
 This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/). This work helps prepare me for a future project involving generating faces and related research, which will begin in February 2025.
