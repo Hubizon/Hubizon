@@ -16,7 +16,9 @@ GIF edited in GIMP (original from AnalyticsVidhya via Medium: https://medium.com
 # My projects:
 
 ## [Continual Learning Research](https://github.com/Hubizon/continual-learning-knn)
-I'm working with my tutor to develop a method that surpasses FeCAM in continual learning. We've already achieved small improvements and are refining the approach further. This work will culminate in a detailed analysis and research paper.
+**Note**: This repository is currently private as we're finalizing the project. It will be made public once the associated paper is published.
+
+I'm working with my tutor to develop a method that aims to surpass FeCAM in continual learning. We've made some improvements and are now running final grid searches and analyzing the results. This work will be presented in a detailed research paper, outlining our findings and methodology.
 
 ## [Generating Images on a Website](https://github.com/Hubizon/generative-ai)
 This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/). This work helps prepare me for a future project involving generating faces and related research, which will begin in February 2025.
