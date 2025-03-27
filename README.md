@@ -15,10 +15,11 @@ GIF edited in GIMP (original from AnalyticsVidhya via Medium: https://medium.com
 
 # My projects:
 
-## [Continual Learning Research](https://github.com/Hubizon/continual-learning-knn)
-**Note**: This repository is currently private as we're finalizing the project. It will be made public once the associated paper is published.
+## [FeNeC (Continual Learning Research)](https://github.com/gmum/FeNeC)
+Research paper on continual learning, currently available on [arXiv](https://arxiv.org/pdf/2503.14301) and awaiting review.
+I implemented the core logic, wrote most of the Results section, came up with the name, created the teaser, and designed most of the plots in the paper.
 
-I'm working with my tutor to develop a method that aims to surpass FeCAM in continual learning. We've made some improvements and are now running final grid searches and analyzing the results. This work will be presented in a detailed research paper, outlining our findings and methodology.
+FeNeC is a continual learning method that employs feature clustering and neighborhood-based classification to mitigate catastrophic forgetting in class-incremental learning scenarios. It leverages frozen feature extractors and uses the Mahalanobis distance for classification.
 
 ## [Generating Images on a Website](https://github.com/Hubizon/generative-ai)
 This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/). This work helps prepare me for a future project involving generating faces and related research, which will begin in February 2025.
