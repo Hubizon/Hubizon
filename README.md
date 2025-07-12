@@ -15,14 +15,20 @@ GIF edited in GIMP (original from AnalyticsVidhya via Medium: https://medium.com
 
 # My projects:
 
-## [FeNeC (Continual Learning Research)](https://github.com/gmum/FeNeC)
+## [AI-Playground](https://github.com/Hubizon/ai-playground)
+Desktop app for experimenting with simple neural networks. Includes a token system, leaderboard, and an intuitive JavaFX interface. Built with a clean MVVM architecture and a custom neural net engine written from scratch in Java. Uses PostgreSQL to manage users, models, training data, and tokens.
+
+## [Dependency Detection (Research)](https://github.com/Hubizon/dependency-detection) [WIP]
+Research project on detecting dependencies between a child’s and mother’s facial expressions during play. Uses PyAFAR to extract facial Action Units for temporal and relational analysis.
+
+## [FeNeC (Research)](https://github.com/gmum/FeNeC)
 Research paper on continual learning, currently available on [arXiv](https://arxiv.org/pdf/2503.14301) and awaiting review.
 I implemented the core logic, wrote most of the Results section, came up with the name, created the teaser, and designed most of the plots in the paper.
 
 FeNeC is a continual learning method that employs feature clustering and neighborhood-based classification to mitigate catastrophic forgetting in class-incremental learning scenarios. It leverages frozen feature extractors and uses the Mahalanobis distance for classification.
 
-## [Generating Images on a Website](https://github.com/Hubizon/generative-ai)
-This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/). This work helps prepare me for a future project involving generating faces and related research, which will begin in February 2025.
+## [Image Generation](https://github.com/Hubizon/generative-ai) [WIP]
+This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/).
 
 ## [Cpp Tensor](https://github.com/Hubizon/cpp-tensor)
 A small C++ library inspired by PyTorch, enabling users to create simple models for deep learning. This project deepened my understanding of gradient descent by implementing it from scratch in C++. It explores the fundamental principles of optimization and backpropagation.
