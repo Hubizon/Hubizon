@@ -2,7 +2,7 @@
 LinkedIn: www.linkedin.com/in/hubert-jastrzebski
 
 I'm a student at Jagiellonian University, studying Theoretical Computer Science
-- 🖥️ Passionate about machine learning and AI research
+- 🖥️ Passionate about software engineering, machine learning, and AI research
 - 🦾 Skilled in algorithms, data structures, and problem-solving
 - 🥋 Training jiu-jitsu since the age of seven
 - 📖 Fan of Brandon Sanderson’s books
@@ -15,26 +15,28 @@ GIF edited in GIMP (original from AnalyticsVidhya via Medium: https://medium.com
 
 # My projects:
 
+## [Chess Engine](https://github.com/Hubizon/chess-bot)
+Developed a custom chess engine featuring two distinct bots: an AlphaZero-style reinforcement learning agent and a supervised learning model trained to predict human moves. The supervised approach achieved over 57% move prediction accuracy and an estimated Elo rating of 1,900.
+
+## [SERUM (Research)](https://github.com/Hubizon/SERUM)
+Co-authored a research paper on watermarking Latent Diffusion Models (LDMs), accepted at [ICLR 2026](https://iclr.cc/virtual/2026/poster/10011005) ([pdf](https://openreview.net/pdf?id=AiBUm6iKBf)). 
+Engineered the core PyTorch codebase and orchestrated the execution of large-scale experiments on remote GPU clusters.
+
 ## [AI-Playground](https://github.com/Hubizon/ai-playground)
-Desktop app for experimenting with simple neural networks. Includes a token system, leaderboard, and an intuitive JavaFX interface. Built with a clean MVVM architecture and a custom neural net engine written from scratch in Java. Uses PostgreSQL to manage users, models, training data, and tokens.
+A desktop application for designing and training simple neural networks. Built from scratch in Java using a clean MVVM architecture, featuring a custom neural network engine, an intuitive JavaFX interface, and a PostgreSQL database for managing users, models, and training data.
 
 ## [Dependency Detection (Research)](https://github.com/Hubizon/dependency-detection) [WIP]
-Research project on detecting dependencies between a child’s and mother’s facial expressions during play. Uses PyAFAR to extract facial Action Units for temporal and relational analysis.
+Ongoing research project analyzing dependencies in mother-child facial expressions during interactions. Utilizes OpenFace2 to extract facial Action Units for complex temporal and relational analysis.
 
 ## [FeNeC (Research)](https://github.com/gmum/FeNeC)
-Research paper on continual learning, currently available on [arXiv](https://arxiv.org/pdf/2503.14301) and awaiting review.
-I implemented the core logic, wrote most of the Results section, came up with the name, created the teaser, and designed most of the plots in the paper.
-
-FeNeC is a continual learning method that employs feature clustering and neighborhood-based classification to mitigate catastrophic forgetting in class-incremental learning scenarios. It leverages frozen feature extractors and uses the Mahalanobis distance for classification.
-
-## [Image Generation](https://github.com/Hubizon/generative-ai) [WIP]
-This project serves as a training exercise where I explore various techniques for generating images using methods like autoencoders, GANs, and diffusion models. The goal is to experiment with different approaches and deploy the results on a [web interface (click here to try!)](https://hubizon.github.io/generative-ai/).
+Co-authored a paper on continual learning, accepted at [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705126002224) ([pdf](https://arxiv.org/pdf/2503.14301)).
+Designed and implemented the core algorithmic logic, generated data visualizations, and wrote the results section in the paper. FeNeC is a continual learning method that employs feature clustering and neighborhood-based classification with frozen feature extractors to mitigate catastrophic forgetting.
 
 ## [Cpp Tensor](https://github.com/Hubizon/cpp-tensor)
-A small C++ library inspired by PyTorch, enabling users to create simple models for deep learning. This project deepened my understanding of gradient descent by implementing it from scratch in C++. It explores the fundamental principles of optimization and backpropagation.
+A lightweight C++ library inspired by PyTorch for building basic deep learning models. Implemented core automatic differentiation, backpropagation, and gradient descent optimization algorithms completely from scratch to explore low-level machine learning mechanics.
 
 ## [Life on Steroids](https://github.com/Hubizon/game-of-life)
-Android game I developed during primary school, deployed on Google Play for a time. The game is a life simulator where players can explore different paths, such as pursuing a career, building relationships, or choosing unconventional lifestyles, all while managing basic needs like food and rest.
+An Android life-simulator game developed in primary school, previously published on Google Play. Players navigate life choices, such as pursuing a career or building relationships, while managing basic resource needs.
 
 ## [Codes & Algorithms](https://github.com/Hubizon/coding-archive)
-This repository contains my algorithmic journey, including problems and solutions from high school to university. It features implementations of algorithms, data structures, and notes for competitive programming and Olympiad preparations.
+A comprehensive archive of my algorithmic journey and competitive programming solutions. It features implementations of advanced data structures and algorithms, including solutions to over 700 tasks from Olympiad in Informatics preparations and university coursework.
